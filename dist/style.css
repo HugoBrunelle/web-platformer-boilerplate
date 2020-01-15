@@ -1,0 +1,12 @@
+html, body {
+    font-family: consolas;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: white;
+    background: black;
+    display: flex;
+    direction: column;
+    justify-content: center;
+    align-items: center;
+}
